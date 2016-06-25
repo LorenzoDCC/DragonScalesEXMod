@@ -5,7 +5,7 @@ recipe.essenceInfusion=Infusão de Essência
 //Blocks
 tile.dragonScaleBlock.name=Bloco de Escamas de Dragão
 tile.dragonEssenceOre.name=Minério de Essência Draconiana
-tile.dragonBricks.name=Tijolos Draconiano
+tile.dragonBricks.name=Tijolos Draconianos
 tile.dragonCrystal.name=Cristal Draconiano
 
 //Items
